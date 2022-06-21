@@ -8,7 +8,7 @@ body{
     background-color: rgb(27, 36, 51);
 }
 
-/* header{
+header{
     width: 100%;
     background-color: rgb(17, 29, 48 );
     position: fixed;
@@ -22,7 +22,7 @@ body{
 header a{
     color: white;
     margin-left: 100px;
-} */
+}
 
 
 main{
