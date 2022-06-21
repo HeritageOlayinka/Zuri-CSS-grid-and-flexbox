@@ -18,6 +18,21 @@
 	--transparent-white: hsla(0, 0%, 100%, 0.75); /*paragraphs*/
 	--very-light-gray: hsl(0, 0%, 95%); /*background, headings, buttons*/
 }
+header{
+    width: 100%;
+    background-color: rgb(17, 29, 48 );
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+header a{
+    color: white;
+    margin-left: 100px;
+}
 
 /* Css Reset */
 
